@@ -1,6 +1,6 @@
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/home/estudiantes/diego.goez/Desktop/dojo/DojoTDD/conf/routes
-// @DATE:Sat May 19 11:04:55 COT 2018
+// @SOURCE:/home/estudiantes/diego.goez/Desktop/dojo/DojoTDD/codebreakerservices/conf/routes
+// @DATE:Sat May 19 12:06:22 COT 2018
 
 package controllers;
 
