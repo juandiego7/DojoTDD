@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/diego.goez/Desktop/dojo/DojoTDD/test/controllers/CodebreakerTest.scala:85:35: not found: value Json[0m
+[0m[[0m[31merror[0m] [0m[0m                    .withJsonBody(Json.parse("""{ "secret": "1235" }""")))[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

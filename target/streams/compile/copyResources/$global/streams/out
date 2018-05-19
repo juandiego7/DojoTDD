@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/estudiantes/diego.goez/Desktop/dojo/DojoTDD/conf/logback.xml,/home/estudiantes/diego.goez/Desktop/dojo/DojoTDD/target/scala-2.12/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/estudiantes/diego.goez/Desktop/dojo/DojoTDD/conf/application.conf,/home/estudiantes/diego.goez/Desktop/dojo/DojoTDD/target/scala-2.12/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/estudiantes/diego.goez/Desktop/dojo/DojoTDD/conf/messages,/home/estudiantes/diego.goez/Desktop/dojo/DojoTDD/target/scala-2.12/classes/messages)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/estudiantes/diego.goez/Desktop/dojo/DojoTDD/conf/routes,/home/estudiantes/diego.goez/Desktop/dojo/DojoTDD/target/scala-2.12/classes/routes)[0m

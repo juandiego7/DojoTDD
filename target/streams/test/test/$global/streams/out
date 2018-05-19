@@ -1,0 +1,42 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for org.scalatest.tools.Framework produced 2 initial tasks for 2 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(controllers.HomeControllerSpec, sbt.ForkMain$SubclassFingerscan@3f3cfe71, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mHomeControllerSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mConvirtiendo el 100 a romano[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should should be valid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mConvirtiendo el 1 a romano[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should should be valid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mConvirtiendo el 28 a romano[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should should be valid[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 3 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(controllers.CodebreakerTest, sbt.ForkMain$SubclassFingerscan@134167f0, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCodebreakerTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mProbando 1234[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should should be exist[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mProbando 1235[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should should be valid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mProbando 1246[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should should be valid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mProbando 5678[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should should be valid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mProbando 1243[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should should be valid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mProbando mas de cuatro numeros[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should should be valid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Test service /answer/1234[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Test service /setsecret 1235[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 8 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for com.novocode.junit.JUnitFramework produced 0 initial tasks for 0 tests.[0m
+[0m[[0m[0minfo[0m] [0m[0mScalaTest[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 1 second, 486 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 11[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 11, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 11, Failed 0, Errors 0, Passed 11[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers.CodebreakerTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers.HomeControllerSpec[0m
