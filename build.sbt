@@ -1,4 +1,4 @@
-name := """DojoTDD"""
+name := """codebreakerservices"""
 organization := "co.edu.udea"
 
 version := "1.0-SNAPSHOT"
