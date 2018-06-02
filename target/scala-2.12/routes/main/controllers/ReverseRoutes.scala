@@ -1,6 +1,6 @@
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/home/Estudiantes/sonorkz/DojoTDD/conf/routes
-// @DATE:Sat Jun 02 09:00:25 COT 2018
+// @SOURCE:/home/Estudiantes/sonorkz/dojo/DojoTDD/conf/routes
+// @DATE:Sat Jun 02 13:02:35 COT 2018
 
 import play.api.mvc.Call
 

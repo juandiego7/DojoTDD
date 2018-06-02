@@ -1,5 +1,5 @@
 [0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/Estudiantes/sonorkz/DojoTDD/conf/logback.xml,/home/Estudiantes/sonorkz/DojoTDD/target/scala-2.12/classes/logback.xml)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/Estudiantes/sonorkz/DojoTDD/conf/application.conf,/home/Estudiantes/sonorkz/DojoTDD/target/scala-2.12/classes/application.conf)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/Estudiantes/sonorkz/DojoTDD/conf/messages,/home/Estudiantes/sonorkz/DojoTDD/target/scala-2.12/classes/messages)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/Estudiantes/sonorkz/DojoTDD/conf/routes,/home/Estudiantes/sonorkz/DojoTDD/target/scala-2.12/classes/routes)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/Estudiantes/sonorkz/dojo/DojoTDD/conf/logback.xml,/home/Estudiantes/sonorkz/dojo/DojoTDD/target/scala-2.12/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/Estudiantes/sonorkz/dojo/DojoTDD/conf/application.conf,/home/Estudiantes/sonorkz/dojo/DojoTDD/target/scala-2.12/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/Estudiantes/sonorkz/dojo/DojoTDD/conf/messages,/home/Estudiantes/sonorkz/dojo/DojoTDD/target/scala-2.12/classes/messages)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/Estudiantes/sonorkz/dojo/DojoTDD/conf/routes,/home/Estudiantes/sonorkz/dojo/DojoTDD/target/scala-2.12/classes/routes)[0m

@@ -43,8 +43,8 @@ Seq[Any](format.raw/*2.1*/("""
 
               /*
                   -- GENERATED --
-                  DATE: Sat Jun 02 09:00:25 COT 2018
-                  SOURCE: /home/Estudiantes/sonorkz/DojoTDD/app/views/index.scala.html
+                  DATE: Sat Jun 02 13:02:35 COT 2018
+                  SOURCE: /home/Estudiantes/sonorkz/dojo/DojoTDD/app/views/index.scala.html
                   HASH: f7d71d8a9f655317469a39627564796bcf2a545b
                   MATRIX: 722->1|818->4|845->6|876->29|915->31|944->34|1000->61
                   LINES: 21->1|26->2|27->3|27->3|27->3|28->4|29->5
